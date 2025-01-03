@@ -29,7 +29,7 @@ class one {
      
    char c = '5';
    c++;
-   System.err.println(c);
+   System.err.println(c);//prints 6
 
                 }
     }
